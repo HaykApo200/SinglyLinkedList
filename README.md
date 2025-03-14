@@ -5,9 +5,6 @@ A simple implementation of a singly linked list in JavaScript. This repository c
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
-- [Usage](#usage)
-- [API](#api)
-- [Contributing](#contributing)
 
 ## Description
 
